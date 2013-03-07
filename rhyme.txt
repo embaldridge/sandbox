@@ -2,3 +2,5 @@ Eeny, meeny, minie, moe;
 Catch a tiger by his toe;
 If he hollers, make him pay;
 Fifty dollars every day.
+
+Hello, Lizz.  Welcome to Git.  It will rock your world.
